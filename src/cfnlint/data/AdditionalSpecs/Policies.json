@@ -11516,6 +11516,7 @@
         "ExportAutoScalingGroupRecommendations",
         "ExportEC2InstanceRecommendations",
         "GetAutoScalingGroupRecommendations",
+        "GetEBSVolumeRecommendations",
         "GetEC2InstanceRecommendations",
         "GetEC2RecommendationProjectedMetrics",
         "GetEnrollmentStatus",
